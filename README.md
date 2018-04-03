@@ -5,3 +5,4 @@ bird
 dog
 snake
 turtle
+whale
