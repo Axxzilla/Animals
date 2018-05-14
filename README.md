@@ -6,3 +6,4 @@ dog
 snake
 turtle
 whale
+wolf
