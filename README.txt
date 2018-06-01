@@ -10,3 +10,4 @@ wolf
 crab
 shark
 bear
+cat
