@@ -9,3 +9,4 @@ whale
 wolf
 crab
 shark
+bear
