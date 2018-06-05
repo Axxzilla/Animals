@@ -11,4 +11,3 @@ crab
 shark
 bear
 cat
-error
