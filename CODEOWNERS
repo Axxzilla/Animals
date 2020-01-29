@@ -36,4 +36,11 @@ apps/ @octocat
 
 # directory in the root of your repository. 
 
+<<<<<<< 7854db4e04d7e23c58befc16804b3180c5cb29fe
 /docs/ @doctocat
+=======
+/docs/ @doctocat
+
+@axxzilla
+@test 
+>>>>>>> adding me
