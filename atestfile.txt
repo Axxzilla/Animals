@@ -11,6 +11,7 @@ ___________
 more changes here
 ghjghkgfhkgfdsfgsdfgsdfg
 dfhdsfhsdfhsd
+<<<<<<< 7854db4e04d7e23c58befc16804b3180c5cb29fe
 CONFLICTING UPDATE SUBMODULE
 fhgdfhsgh
 fhgdfhsghgsd
@@ -18,3 +19,9 @@ fsadgsdfgyjdkgudku
 2134234234
 dfagsdfg
 456grhfrghdf
+=======
+asdfasdf
+fhjgh
+gil
+y
+>>>>>>> seadfgsdfgsd
