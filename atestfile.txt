@@ -12,9 +12,6 @@ more changes here
 ghjghkgfhkgf
 dfhdsfhsdfhsd
 CONFLICTING UPDATE SUBMODULE
-asdfasdf
-fhjgh
-gil
-dfgsdfgsdf
-ghjghkgfhkgfdfs
-ghjghkgfhkgfdfs
+fhgdfhsgh
+fhgdfhsghgsd
+fsadgsdf
