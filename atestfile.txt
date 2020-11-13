@@ -11,7 +11,7 @@ ___________
 more changes here
 ghjghkgfhkgfdsfgsdfgsdfg
 dfhdsfhsdfhsd
-asdfasdf
-fhjgh
-gil
-y
+CONFLICTING UPDATE SUBMODULE
+fhgdfhsgh
+fhgdfhsghgsd
+fsadgsdf
