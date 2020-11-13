@@ -12,6 +12,7 @@ more changes here
 ghjghkgfhkgfdsfgsdfgsdfg
 dfhdsfhsdfhsd
 <<<<<<< 7854db4e04d7e23c58befc16804b3180c5cb29fe
+<<<<<<< 7854db4e04d7e23c58befc16804b3180c5cb29fe
 CONFLICTING UPDATE SUBMODULE
 fhgdfhsgh
 fhgdfhsghgsd
@@ -25,3 +26,9 @@ fhjgh
 gil
 y
 >>>>>>> seadfgsdfgsd
+=======
+CONFLICTING UPDATE SUBMODULE
+fhgdfhsgh
+fhgdfhsghgsd
+fsadgsdf
+>>>>>>> test
