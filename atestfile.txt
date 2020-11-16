@@ -16,6 +16,7 @@ dfhdsfhsdfhsd
 CONFLICTING UPDATE SUBMODULE
 fhgdfhsgh
 fhgdfhsghgsd
+<<<<<<< 7854db4e04d7e23c58befc16804b3180c5cb29fe
 fsadgsdfgyjdkgudku
 2134234234
 dfagsdfg
@@ -32,3 +33,7 @@ fhgdfhsgh
 fhgdfhsghgsd
 fsadgsdf
 >>>>>>> test
+=======
+fsadgsdf
+2134234234
+>>>>>>> making changes
