@@ -7,3 +7,6 @@
 [submodule "test1/test2/test3/test-gitflow"]
 	path = test1/test2/test3/test-gitflow
 	url = https://github.com/Axxzilla/Test-gitflow.git
+[submodule "src/project/test"]
+	path = src/project/test
+	url = https://alex_latham@bitbucket.org/alex_latham/testbitbucket.git
